@@ -5,6 +5,7 @@
 I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **JavaScript**. My journey revolves around crafting efficient, user-friendly web solutions and sharing knowledge through blogs and YouTube content.  
 
 ☕  Connect with me!
+
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

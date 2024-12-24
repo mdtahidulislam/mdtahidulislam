@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Tahidul Islam! 
 
 <p dir="auto">
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%;">
   </a>

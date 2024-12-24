@@ -8,11 +8,6 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
 ☕  Connect with me!
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tahidulislam55) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahidulislam) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/learnwithtahidul) [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://learnwithtahidul.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:tahidul.developer@gmail.com) 
-<p>
-  <a href="mailto:tahidul.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge">
-  </a>
-</p>
 
 ## 🚀 About Me  
 
@@ -41,15 +36,6 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
 
 ![Tahidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahidul-islam&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahidul-islam&layout=compact&theme=radical)  
-
----
-
-## 📬 Let's Connect  
-
-- 🌐 **Website**: [Learn With Tahidul](https://www.learnwithtahidul.com)  
-- 📹 **YouTube**: [Learn With Tahidul](https://www.youtube.com/learnwithtahidul)  
-- 🐦 **Facebook**: [Tahidul Islam](https://www.facebook.com/tahidulislam55)  
-- 💼 **LinkedIn**: [Tahidul Islam](https://www.linkedin.com/in/tahidulislam)  
 
 ---
 

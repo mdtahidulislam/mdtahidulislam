@@ -6,7 +6,7 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
 
 ☕  Connect with me!
 
-<p>
+<div id="badges">
   <a href="https://www.facebook.com/tahidulislam55" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -19,7 +19,7 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
   <a href="mailto:tahidul.developer@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge">
   </a>
-</p>
+</div>
 ---
 
 ## 🚀 About Me  

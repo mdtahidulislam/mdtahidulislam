@@ -7,20 +7,8 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
 
 ☕  Connect with me!
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tahidulislam55)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tahidulislam55) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahidulislam) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/learnwithtahidul) [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://learnwithtahidul.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:tahidul.developer@gmail.com) 
 <p>
-  <a href="https://www.facebook.com/tahidulislam55" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tahidulislam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/learnwithtahidul" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://learnwithtahidul.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog Badge"/>
-  </a>
   <a href="mailto:tahidul.developer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge">
   </a>

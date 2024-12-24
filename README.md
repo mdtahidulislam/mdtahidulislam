@@ -38,9 +38,9 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
 
 ## 📬 Let's Connect  
 
-- 🌐 **Website**: [Tahidul's Blog](https://www.learnwithtahidul.com)  
-- 📹 **YouTube**: [Learn with Tahidul](https://www.youtube.com/learnwithtahidul)  
-- 🐦 **Facebook**: [@yourhandle](https://www.facebook.com/tahidulislam55)  
+- 🌐 **Website**: [Learn With Tahidul](https://www.learnwithtahidul.com)  
+- 📹 **YouTube**: [Learn With Tahidul](https://www.youtube.com/learnwithtahidul)  
+- 🐦 **Facebook**: [Tahidul Islam](https://www.facebook.com/tahidulislam55)  
 - 💼 **LinkedIn**: [Tahidul Islam](https://www.linkedin.com/in/tahidulislam)  
 
 ---

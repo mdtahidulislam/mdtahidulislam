@@ -15,6 +15,9 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
   <a href="https://www.youtube.com/learnwithtahidul" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+  <a href="https://learnwithtahidul.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog Badge"/>
+  </a>
   <a href="mailto:tahidul.developer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge">
   </a>

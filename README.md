@@ -11,7 +11,7 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
 - 💻 **Web Development Enthusiast**: I specialize in building scalable and high-performing websites using WordPress and Shopify.  
 - ✨ **JavaScript Lover**: Whether it's vanilla JavaScript or modern frameworks, I enjoy creating interactive user experiences.  
 - 📖 **Blogger**: Sharing insights on web development, tips, and tricks to help the community grow.  
-- 🎥 **YouTube Content Creator**: Check out my channel [Learn with Tahidul](https://www.youtube.com/@LearnWithTahidul) for tutorials, project walkthroughs, and more!  
+- 🎥 **YouTube Content Creator**: Check out my channel [Learn with Tahidul](https://www.youtube.com/learnwithtahidul) for tutorials, project walkthroughs, and more!  
 
 ---
 
@@ -38,20 +38,10 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
 
 ## 📬 Let's Connect  
 
-- 🌐 **Website**: [Tahidul's Blog](https://www.yourblogsite.com)  
-- 📹 **YouTube**: [Learn with Tahidul](https://www.youtube.com/@LearnWithTahidul)  
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
-- 💼 **LinkedIn**: [Tahidul Islam](https://linkedin.com/in/tahidul-islam)  
-
----
-
-## 📝 Latest Blog Posts  
-
-<!-- BLOG-POST-LIST:START -->  
-- [How to Optimize WordPress for Speed](https://www.yourblogsite.com/wordpress-speed-optimization)  
-- [Getting Started with Shopify Theme Development](https://www.yourblogsite.com/shopify-theme-development)  
-- [Top JavaScript Tricks Every Developer Should Know](https://www.yourblogsite.com/javascript-tricks)  
-<!-- BLOG-POST-LIST:END -->  
+- 🌐 **Website**: [Tahidul's Blog](https://www.learnwithtahidul.com)  
+- 📹 **YouTube**: [Learn with Tahidul](https://www.youtube.com/learnwithtahidul)  
+- 🐦 **Facebook**: [@yourhandle](https://www.facebook.com/tahidulislam55)  
+- 💼 **LinkedIn**: [Tahidul Islam](https://www.linkedin.com/in/tahidulislam)  
 
 ---
 

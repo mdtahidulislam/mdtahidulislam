@@ -1,4 +1,34 @@
-# 👋 Hi, I'm Tahidul Islam!  
+# 👋 Hi, I'm Tahidul Islam! 
+
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white">
+    <img src="https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white" alt="Vite" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" 
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" 
+    <img src="https://img.shields.io/badge/Elementor-9146FF?style=flat-square&amp;logo=elementor&amp;logoColor=white" alt="Elementor" style="max-width: 100%;">
+  </a>
+</p>
 
 🌟 **Web Developer | Blogger | Content Creator**  
 

@@ -6,21 +6,17 @@ I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **J
 
 ☕  Connect with me!
 <p>
-  <a href="https://www.facebook.com/tahidulislam55" target="_blank" style="text-decoration: none">
+  <a href="https://www.facebook.com/tahidulislam55" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a><a href="https://www.linkedin.com/in/tahidulislam" target="_blank" style="text-decoration: none">
+  </a>
+  <a href="https://www.linkedin.com/in/tahidulislam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/tahidul-islam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.youtube.com/learnwithtahidul" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://www.youtube.com/@LearnWithTahidul" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:tahidul.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge">
   </a>
 </p>
 

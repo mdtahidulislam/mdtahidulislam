@@ -5,21 +5,11 @@
 I'm a passionate developer with expertise in **WordPress**, **Shopify**, and **JavaScript**. My journey revolves around crafting efficient, user-friendly web solutions and sharing knowledge through blogs and YouTube content.  
 
 ☕  Connect with me!
-
-<div id="badges">
+<p>
   <a href="https://www.facebook.com/tahidulislam55" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/tahidulislam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/learnwithtahidul" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="mailto:tahidul.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge">
-  </a>
-</div>
+</p>
 
 ## 🚀 About Me  
 
